@@ -3,6 +3,7 @@
 **/.claude/
 **/.claude
 *.claude
+CLAUDE.md
 .env
 __pycache__/
 *.pyc
