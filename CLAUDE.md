@@ -26,6 +26,7 @@ RECAST Constraint Evaluation Framework for STAT 453. Evaluates zero-shot constra
 
 ## Guardrails
 
+- **Never add yourself as a contributor or co-author.** No `Co-Authored-By` lines, no attribution to Claude in commits.
 - **Never commit to `main`.** All work happens on feature branches.
 - **Never push without being asked.** The user controls when code goes to remote.
 - **Never merge PRs** without explicit user request.
